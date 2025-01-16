@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -39,7 +38,8 @@ const socialMediaLinks = {
   gitlab: "https://gitlab.com/trbuhozborac",
   // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/@trbuhozborac",
-  stackoverflow: "https://stackoverflow.com/users/9711575/nemanja-pilipovi%c4%87",
+  stackoverflow:
+    "https://stackoverflow.com/users/9711575/nemanja-pilipovi%c4%87",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -99,7 +99,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -114,14 +114,14 @@ const educationInfo = {
       logo: require("./assets/images/vtsLogo.png"),
       subHeader: "Information technologies",
       duration: "October 2015 - May 2018",
-      desc: "Novi Sad",
+      desc: "Novi Sad"
     },
     {
       schoolName: "High school „22. Oktobar“",
       logo: require("./assets/images/srednjaLogo.png"),
       subHeader: "Economic technician",
       duration: "September 2011 - June 2015",
-      desc: "Žabalj"     
+      desc: "Žabalj"
     }
   ]
 };
@@ -142,7 +142,7 @@ const techStack = {
     {
       Stack: "UI / UX",
       progressPercentage: "70%"
-    },
+    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -195,7 +195,7 @@ const workExperiences = {
         `Led the end-to-end development of a dynamic boat renting application, utilizing React for the
          front-end and Node.js for the back-end, showcasing proﬁciency in full-stack development.`
       ]
-    },  
+    }
   ]
 };
 
@@ -251,134 +251,124 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AI Engineering Specialization",
-      subtitle:
-        "Scrimba",
+      subtitle: "Scrimba",
       image: require("./assets/images/scrimbaLogo.png"),
       imageAlt: "Scrimba Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/specialization/4AM3AKR2H4MY"
-        },
+        }
       ]
     },
     {
       title: "Build AI Apps with LangChain.js",
-      subtitle:
-        "Scrimba",
+      subtitle: "Scrimba",
       image: require("./assets/images/scrimbaLogo.png"),
       imageAlt: "Scrimba Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/records/7WJUAQW3HZMB"
-        },
+        }
       ]
     },
     {
       title: "Learn AI Agents",
-      subtitle:
-        "Scrimba",
+      subtitle: "Scrimba",
       image: require("./assets/images/scrimbaLogo.png"),
       imageAlt: "Scrimba Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/records/9ZVW3PHBCGAR"
-        },
+        }
       ]
     },
     {
       title: "Learn Embeddings and Vector Databases",
-      subtitle:
-        "Scrimba",
+      subtitle: "Scrimba",
       image: require("./assets/images/scrimbaLogo.png"),
       imageAlt: "Scrimba Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/records/TMGU8PCL49EV"
-        },
+        }
       ]
     },
     {
       title: "Open-source AI Models",
-      subtitle:
-        "Scrimba",
+      subtitle: "Scrimba",
       image: require("./assets/images/scrimbaLogo.png"),
       imageAlt: "Scrimba Logo",
       footerLink: [
         {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/records/2UBFLCVGQTF6"
-        },
+        }
       ]
     },
     {
       title: "Complete React Native in 2021: Zero to Mastery",
-      subtitle:
-        "Udemy",
+      subtitle: "Udemy",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Course URL",
           url: "https://www.udemy.com/course/complete-react-native-course-from-zero-to-mastery/"
-        },
+        }
       ]
     },
     {
       title: "Node with React: Fullstack Web Development",
-      subtitle:
-        "Udemy",
+      subtitle: "Udemy",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Course URL",
           url: "https://www.udemy.com/course/node-with-react-fullstack-web-development/"
-        },
+        }
       ]
     },
     {
       title: "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
-      subtitle:
-        "Udemy",
+      subtitle: "Udemy",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Course URL",
           url: "https://www.udemy.com/course/advanced-css-and-sass/"
-        },
+        }
       ]
     },
     {
       title: "The Complete ASP.NET MVC 5 Course",
-      subtitle:
-        "Udemy",
+      subtitle: "Udemy",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Course URL",
           url: "https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/"
-        },
+        }
       ]
     },
     {
       title: "Learn To Use APIs With Visual Studio, C#, ASP.Net",
-      subtitle:
-        "Udemy",
+      subtitle: "Udemy",
       image: require("./assets/images/udemyLogo.png"),
       imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Course URL",
           url: "https://www.udemy.com/course/learn-to-use-apis-with-visual-studio-c-aspnet/"
-        },
+        }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
