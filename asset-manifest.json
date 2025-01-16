@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3c3461d2.css",
-    "main.js": "/static/js/main.ab04053f.js",
+    "main.js": "/static/js/main.1ec6626d.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.b6de8d46.chunk.js": "/static/js/990.b6de8d46.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/NemanjaPilipovicCV.pdf": "/static/media/NemanjaPilipovicCV.4b7bedb91692563b4f6c.pdf",
+    "static/media/NemanjaPilipovicCV.pdf": "/static/media/NemanjaPilipovicCV.01714a0a7fdde1f8fda9.pdf",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/smarfLogo.png": "/static/media/smarfLogo.b286876bc6c12936993f.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -17,12 +17,12 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3c3461d2.css.map": "/static/css/main.3c3461d2.css.map",
-    "main.ab04053f.js.map": "/static/js/main.ab04053f.js.map",
+    "main.1ec6626d.js.map": "/static/js/main.1ec6626d.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.b6de8d46.chunk.js.map": "/static/js/990.b6de8d46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3461d2.css",
-    "static/js/main.ab04053f.js"
+    "static/js/main.1ec6626d.js"
   ]
 }
