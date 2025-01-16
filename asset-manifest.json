@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.247e0076.css",
-    "main.js": "/static/js/main.92bea119.js",
+    "main.css": "/static/css/main.bfd7fb04.css",
+    "main.js": "/static/js/main.8568fcca.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.b6de8d46.chunk.js": "/static/js/990.b6de8d46.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -16,13 +16,13 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.247e0076.css.map": "/static/css/main.247e0076.css.map",
-    "main.92bea119.js.map": "/static/js/main.92bea119.js.map",
+    "main.bfd7fb04.css.map": "/static/css/main.bfd7fb04.css.map",
+    "main.8568fcca.js.map": "/static/js/main.8568fcca.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.b6de8d46.chunk.js.map": "/static/js/990.b6de8d46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.247e0076.css",
-    "static/js/main.92bea119.js"
+    "static/css/main.bfd7fb04.css",
+    "static/js/main.8568fcca.js"
   ]
 }
