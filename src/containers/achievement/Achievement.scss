@@ -17,6 +17,9 @@
 
 /* Media Query */
 @media (max-width: 1380px) {
+  .react-reveal{
+    opacity: 1!important;
+  }
   .achievement-heading {
     font-size: 40px;
   }
