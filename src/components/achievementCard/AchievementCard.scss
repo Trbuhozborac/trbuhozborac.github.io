@@ -18,6 +18,10 @@
   line-height: 1.5rem;
 }
 .certificate-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
   background-color: $lightBackground2;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
   padding: 1.5rem;
@@ -67,7 +71,6 @@
   justify-content: center;
   white-space: nowrap;
   line-height: 1.5;
-  margin: 0 0.5rem 0.5rem 0;
   padding: 0 0.75em;
   cursor: pointer;
   transition: 0.2s ease-in;
