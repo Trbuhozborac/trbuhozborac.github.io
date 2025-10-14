@@ -140,8 +140,8 @@ const techStack = {
       progressPercentage: "75%"
     },
     {
-      Stack: "UI / UX",
-      progressPercentage: "70%"
+      Stack: "DevOps",
+      progressPercentage: "60%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -154,9 +154,24 @@ const workExperiences = {
   experience: [
     {
       role: "Front-End Developer",
+      company: "Devtech",
+      companylogo: require("./assets/images/devtechLogo.png"),
+      date: "April 2025 – Present",
+      descBullets: [
+        `Front-End Developer focused on building scalable applications from the ground up using React
+        and TypeScript`,
+        `Collaborating closely with designers, QA engineers, and backend developers to implement
+        pixel-perfect, responsive UIs and ensure high-quality user experiences`,
+        `Involved in the full development cycle, including prototyping, code reviews, and performance
+        optimization.`,
+        `Integrated analytics, authentication, and state management solutions to improve app performance and maintainability across multiple production environments.`
+      ]
+    },
+    {
+      role: "Full-Stack AI Developer",
       company: "Smile AI",
       companylogo: require("./assets/images/smileLogo.png"),
-      date: "Mar 2024 – Present",
+      date: "Mar 2024 – Mar 2025",
       descBullets: [
         `Led the implementation of AI-driven automation initiatives, integrating OpenAI APIs and AI
          agents, while experimenting with emerging technologies in a hands-on manner.`,
@@ -167,7 +182,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-end developer",
+      role: "Front-End developer",
       company: "SmaRF Solutions",
       companylogo: require("./assets/images/smarfLogo.png"),
       date: "Jun 2015 – Feb 2024",
@@ -182,7 +197,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Full-stack Developer",
+      role: "Full-Stack Developer",
       company: "Croative",
       companylogo: require("./assets/images/croativeLogo.png"),
       date: "Nov 2018 – May 2022",
